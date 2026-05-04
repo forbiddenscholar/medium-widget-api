@@ -1,0 +1,33 @@
+{
+  "name": "medium-widget-api",
+  "version": "1.0.0",
+  "description": "Serverless API to generate Medium article embed widgets with dark mode support",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "medium",
+    "widget",
+    "embed",
+    "svg",
+    "api",
+    "vercel",
+    "serverless"
+  ],
+  "author": "Mohit Deharkar",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/forbiddenscholar/medium-widget-api"
+  },
+  "bugs": {
+    "url": "https://github.com/forbiddenscholar/medium-widget-api/issues"
+  },
+  "homepage": "https://github.com/forbiddenscholar/medium-widget-api#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "rss-parser": "^3.13.0"
+  }
+}
