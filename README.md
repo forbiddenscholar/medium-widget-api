@@ -1,6 +1,10 @@
 # Medium Widget API
 
 A serverless API that generates SVG embed widgets for Medium articles with automatic dark mode support.
+Get beautiful widgets like this :
+<img width="2067" height="372" alt="medium-widget" src="https://github.com/user-attachments/assets/2fcf5de7-2371-4c19-9075-22c2558a3ed6" />
+
+
 
 ## How It Works
 
